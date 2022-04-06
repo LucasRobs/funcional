@@ -1,0 +1,1 @@
+final qtd xs = reverse(take qtd (reverse xs))
